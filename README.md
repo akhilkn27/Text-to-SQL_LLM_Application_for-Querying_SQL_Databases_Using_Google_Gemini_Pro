@@ -8,7 +8,7 @@ This can be accomplished with the help of Google Gemini Pro LLM.
 
 Guided by Krish Sir, I had worked on building a Text-to-SQL LLM application that queries SQL databases using Gemini Pro.
 
-<b>Objective:</b>
+<h3><b>Objective:</b></h3>
 
 The main goal of this project is to convert natural language text into SQL queries using the Gemini Pro LLM application. 
 This allows users to input their queries in natural language, which are then converted to SQL queries and executed on the database.
