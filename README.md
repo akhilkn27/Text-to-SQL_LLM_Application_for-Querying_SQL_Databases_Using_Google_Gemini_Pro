@@ -6,7 +6,7 @@ But how can this be achieved?
 
 This can be accomplished with the help of Google Gemini Pro LLM.
 
-Guided by Krish Sir, I had worked on building a Text-to-SQL LLM application that queries SQL databases using Gemini Pro.
+Guided by <a href='https://www.linkedin.com/in/naikkrish/'>Krish Naik</a> Sir, I had worked on building a Text-to-SQL LLM application that queries SQL databases using Gemini Pro.
 
 <h3><b>Objective:</b></h3>
 
