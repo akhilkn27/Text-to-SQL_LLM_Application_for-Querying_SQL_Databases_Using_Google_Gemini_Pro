@@ -36,7 +36,7 @@ The project has been implemented with SQLite but is adaptable to other databases
   <li><b>.env</b> - Contains the Google Gemini API key.</li>
   <li><b>sql.py</b> - Script for creating the database, creating tables, and inserting values.</li>
   <li><b>sqlapp.py</b> - Script for creating the Streamlit app. This is where the entire LLM application is developed.</li>
-</ol><br>
+</ol>
 
 <h2><b>Technologies Used:</b></h2>
 <ol>
