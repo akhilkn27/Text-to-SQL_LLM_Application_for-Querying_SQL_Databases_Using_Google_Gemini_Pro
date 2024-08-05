@@ -37,10 +37,6 @@ The project has been implemented with SQLite but is adaptable to other databases
 
 ![image](https://github.com/user-attachments/assets/667c822d-0604-4815-9f07-ce22976a3281)
 
-![image](https://github.com/user-attachments/assets/fe87b3bc-6a86-487b-96cd-c52354381968)
-
-![image](https://github.com/user-attachments/assets/0b6aa34f-4e50-4091-8785-20e28bb98c3e)
-
 <h2><b>Files Details:</b></h2>
 <ol>
   <li><b>requirements.txt</b> - Lists all the libraries that need to be installed.</li>
