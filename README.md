@@ -33,7 +33,7 @@ The project has been implemented with SQLite but is adaptable to other databases
 </ul> 
 </ol>
 
-![image](https://github.com/user-attachments/assets/326bd062-1161-4cce-a7ac-6b4095b0a35e)
+![image](https://github.com/user-attachments/assets/30bca508-5415-4315-98d9-20dbb7e2275e)
 
 ![image](https://github.com/user-attachments/assets/667c822d-0604-4815-9f07-ce22976a3281)
 
