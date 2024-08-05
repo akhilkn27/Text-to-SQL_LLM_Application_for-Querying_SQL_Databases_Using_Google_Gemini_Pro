@@ -32,7 +32,8 @@ The project has been implemented with SQLite but is adaptable to other databases
       <li>The generated SQL queries are then executed on the SQL database.</li>
 </ul> 
 </ol>
-![image](https://github.com/user-attachments/assets/e2de26bf-56c8-455c-b51a-29409797fe94)
+
+![image](https://github.com/user-attachments/assets/326bd062-1161-4cce-a7ac-6b4095b0a35e)
 
 ![image](https://github.com/user-attachments/assets/667c822d-0604-4815-9f07-ce22976a3281)
 
