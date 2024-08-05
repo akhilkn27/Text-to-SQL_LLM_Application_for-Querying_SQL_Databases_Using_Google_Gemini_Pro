@@ -32,6 +32,14 @@ The project has been implemented with SQLite but is adaptable to other databases
       <li>The generated SQL queries are then executed on the SQL database.</li>
 </ul> 
 </ol>
+![image](https://github.com/user-attachments/assets/e2de26bf-56c8-455c-b51a-29409797fe94)
+
+![image](https://github.com/user-attachments/assets/667c822d-0604-4815-9f07-ce22976a3281)
+
+![image](https://github.com/user-attachments/assets/fe87b3bc-6a86-487b-96cd-c52354381968)
+
+![image](https://github.com/user-attachments/assets/0b6aa34f-4e50-4091-8785-20e28bb98c3e)
+
 <h2><b>Files Details:</b></h2>
 <ol>
   <li><b>requirements.txt</b> - Lists all the libraries that need to be installed.</li>
@@ -39,6 +47,12 @@ The project has been implemented with SQLite but is adaptable to other databases
   <li><b>sql.py</b> - Script for creating the database, creating tables, and inserting values.</li>
   <li><b>sqlapp.py</b> - Script for creating the Streamlit app. This is where the entire LLM application is developed.</li>
 </ol>
+
+![image](https://github.com/user-attachments/assets/7460c534-4c32-4a30-a7d1-43edb326eed4)
+
+![image](https://github.com/user-attachments/assets/04e0f85a-f9ea-4f5e-8887-ef47ec5c87c4)
+
+![image](https://github.com/user-attachments/assets/c8d6e8c4-fbc3-4cc8-ab95-bbed8424e581)
 
 <h2><b>Technologies Used:</b></h2>
 <ol>
